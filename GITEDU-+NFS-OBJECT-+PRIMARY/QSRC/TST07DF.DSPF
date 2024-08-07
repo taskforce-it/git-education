@@ -1,0 +1,10 @@
+     A                                      DSPSIZ(24 80 *DS3)
+     A          R TST07DFRF
+     A                                      CA03(03)
+     A                                 10  2'            Geben Sie einen Wert e-
+     A                                      in und drücken Sie Datenfreigabe   -
+     A                                               '
+     A                                 11  2'                         Zum Verla-
+     A                                      ssen drücken Sie F3                -
+     A                                               '
+     A            FLD           10A  B 13 36

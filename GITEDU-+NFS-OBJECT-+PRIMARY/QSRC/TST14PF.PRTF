@@ -1,0 +1,5 @@
+     A          R TST14PFRF
+     A                                      SPACEB(001)
+     A                                     1
+     A                                      'Eingegebener Wert  :'
+     A            FLD           10A  O    +1
