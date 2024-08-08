@@ -1,6 +1,9 @@
      fTSTX1DF   CF   E             Workstn
      fTSTX101   O    E             Disk
      fTSTX1PF   O    E             Printer
+      * Frank 1
+      * Frank 2
+      * Frank 3
      c                   DoU       *IN03 = *On
      c                   Eval      FLD = *Blanks
       * Test 1
